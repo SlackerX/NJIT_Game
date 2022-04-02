@@ -1,0 +1,16 @@
+{
+    "name": "simon-game",
+    "version": "1.0.0",
+    "description": "A Simon game made with JavaScript",
+    "main": "main.js",
+    "repository": "github.com/SlackerX/NJIT_Game",
+    "author": "Brian Schreiner",
+    "license": "MIT",
+    "scripts": {
+      "start": "npx browser-sync start -sw"
+    },
+    "devDependencies": {
+      "browser-sync": "^2.26.7"
+    }
+  }
+  
